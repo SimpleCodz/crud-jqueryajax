@@ -5,8 +5,8 @@ Untuk menginstall aplikasi ini dibutuhkan PHP versi 7 dengan database MySQL, dan
 
 Bahan Lain :
 <ol>
-  <li>Bootstrap 4, <a target="_blank" href="https://getbootstrap.com/">kunjungi</a></li>
-  <li>JQuery 3.3.1, <a target="_blank" href="https://jquery.com/">kunjungi</a></li>
+  <li>Design Menggunakan Framework CSS Bootstrap 4, <a target="_blank" href="https://getbootstrap.com/">kunjungi</a></li>
+  <li>Framework Javascript menggunakan JQuery 3.3.1, <a target="_blank" href="https://jquery.com/">kunjungi</a></li>
 </ol>
 
 Website Saya : <a target="_blank" href="https://simplecodz.blogspot.com">SimpleCodz</a>
